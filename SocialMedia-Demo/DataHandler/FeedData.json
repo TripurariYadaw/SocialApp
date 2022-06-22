@@ -1,0 +1,28 @@
+[
+    {
+      "user_name": "Allen Croop",
+      "item_type": "text",
+      "data": "Several banks are making a case for an alternative to SMS alerts due to the growing costs and security risks that they pose. Private lenders are calling for alternatives such as app notifications and password generators to replace the text alerts that banks have to mandatorily send out to customers"
+    },
+    {
+      "user_name": "Andrei Morrison",
+      "item_type": "url",
+      "data": "https://material.io/components/"
+    },
+    {
+      "user_name": "Zunik Claud",
+      "item_type": "image",
+      "data": "http://placekitten.com/200/300"
+    },
+    {
+      "user_name": "Syswa Alexender",
+      "item_type": "video",
+      "data": "https://devstreaming-cdn.apple.com/videos/wwdc/2017/230lc4n1loob9/230/hls_vod_mvp.m3u8"
+    },
+    {
+      "user_name": "Waiden",
+      "item_type": "text",
+      "data": "Open the Chrome app on your phone, and tap the address bar. Paste the link there. You can click the ‘Link you copied’ button (if you see it), else tap and hold in the address bar, and then tap ‘Paste’. Tap the arrow button on the keyboard in the bottom right to load the URL"
+    }
+  ]
+
